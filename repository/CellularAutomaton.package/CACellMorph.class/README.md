@@ -1,0 +1,1 @@
+I am the morph representation of a GOLCell.

@@ -1,0 +1,1 @@
+I perform the simulation of the automaton and generate a gif file.

@@ -1,0 +1,16 @@
+{
+	"category" : "CellularAutomaton-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/14/2017 18:43",
+	"instvars" : [
+		"grid",
+		"iterationsCount",
+		"delayBetweenTwoIterations" ],
+	"name" : "CAEngine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

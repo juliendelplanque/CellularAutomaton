@@ -1,0 +1,16 @@
+{
+	"category" : "CellularAutomaton-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/9/2017 12:00",
+	"instvars" : [
+		"golCell",
+		"deadColor",
+		"aliveColor" ],
+	"name" : "CACellMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

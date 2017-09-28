@@ -1,0 +1,16 @@
+{
+	"category" : "CellularAutomaton-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/14/2017 18:42",
+	"instvars" : [
+		"thread",
+		"gridMorph",
+		"windowLabel" ],
+	"name" : "CAMorphicEngine",
+	"pools" : [
+		 ],
+	"super" : "CAEngine",
+	"type" : "normal" }

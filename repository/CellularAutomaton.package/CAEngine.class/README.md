@@ -1,0 +1,1 @@
+I am an abstract object that perform the automaton simulation.

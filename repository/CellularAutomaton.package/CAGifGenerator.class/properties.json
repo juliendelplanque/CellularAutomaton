@@ -1,0 +1,16 @@
+{
+	"category" : "CellularAutomaton-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/14/2017 18:56",
+	"instvars" : [
+		"cellExtent",
+		"stateToColorDict",
+		"file" ],
+	"name" : "CAGifGenerator",
+	"pools" : [
+		 ],
+	"super" : "CAEngine",
+	"type" : "normal" }

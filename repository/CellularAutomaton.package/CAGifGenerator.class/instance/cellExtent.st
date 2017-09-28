@@ -1,0 +1,3 @@
+accessing
+cellExtent
+	^ cellExtent

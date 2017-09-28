@@ -1,0 +1,14 @@
+{
+	"category" : "CellularAutomaton-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/14/2017 18:49",
+	"instvars" : [
+		"state" ],
+	"name" : "CACell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

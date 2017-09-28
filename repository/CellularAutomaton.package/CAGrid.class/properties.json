@@ -1,0 +1,15 @@
+{
+	"category" : "CellularAutomaton-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/14/2017 18:43",
+	"instvars" : [
+		"matrix",
+		"rules" ],
+	"name" : "CAGrid",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

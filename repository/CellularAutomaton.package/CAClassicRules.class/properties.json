@@ -1,0 +1,14 @@
+{
+	"category" : "CellularAutomaton-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/9/2017 11:48",
+	"instvars" : [
+		 ],
+	"name" : "CAClassicRules",
+	"pools" : [
+		 ],
+	"super" : "CARules",
+	"type" : "normal" }

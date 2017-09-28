@@ -1,0 +1,16 @@
+{
+	"category" : "CellularAutomaton-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/14/2017 18:43",
+	"instvars" : [
+		"golGrid",
+		"cellHeight",
+		"cellWidth" ],
+	"name" : "CAGridMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
