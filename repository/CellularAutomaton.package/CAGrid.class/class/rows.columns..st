@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 rows: rows columns: columns
 	^ self new
 		matrix: (Matrix rows: rows columns: columns);
