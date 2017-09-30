@@ -1,0 +1,14 @@
+{
+	"category" : "CellularAutomaton-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"cell" ],
+	"name" : "CACellTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -6,6 +6,6 @@ beForGrid: aGOLGrid
 		0 to: aGOLGrid columns - 1 do: [ :column |
 			(self submorphs at: morphIndex)
 				position: self position + ((column * self cellWidth)@(row * self cellHeight));
-				beForCell: (aGOLGrid cellAt: row at: column).
+				beForCell: (aGOLGrid cellAt: row + 1 at: column + 1).
 			morphIndex := morphIndex + 1 ] ].
 	golGrid := aGOLGrid
