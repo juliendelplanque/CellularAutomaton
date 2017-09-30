@@ -7,7 +7,7 @@
 	"commentStamp" : "JulienDelplanque 4/9/2017 11:48",
 	"instvars" : [
 		 ],
-	"name" : "CAClassicRules",
+	"name" : "CAGameOfLifeRules",
 	"pools" : [
 		 ],
 	"super" : "CARules",

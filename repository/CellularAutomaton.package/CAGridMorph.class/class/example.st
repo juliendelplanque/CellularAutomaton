@@ -7,7 +7,7 @@ example
 			[ :j |
 				#(true true false false false false false) atRandom
 					ifTrue: [ (grid cellAt: i at: j) beAlive ] ] ].
-	grid rules: CAClassicRules new.
+	grid rules: CAGameOfLifeRules new.
 	gm := CAGridMorph new
 				cellsCount: grid rows * grid columns;
 				beForGrid: grid;
